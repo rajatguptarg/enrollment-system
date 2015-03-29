@@ -1,2 +1,2 @@
-enrollment-system
+employee-enrollment-system
 ==========================
